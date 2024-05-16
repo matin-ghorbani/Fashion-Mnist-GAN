@@ -1,0 +1,5 @@
+tensorflow
+pillow
+imageio
+numpy
+matplotlib
